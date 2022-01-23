@@ -8,4 +8,4 @@ Práctica para el programa Skills for women in tech
 
 ### Agregar imagen
 
-![hack] (IMG/e3a4a18b6141cbfa2b2b1ad821724adc.jpg)
+![hack](IMG/e3a4a18b6141cbfa2b2b1ad821724adc.jpg)
