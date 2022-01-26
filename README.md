@@ -10,9 +10,9 @@ Práctica para el programa Skills for women in tech
 
 ![hack](IMG/e3a4a18b6141cbfa2b2b1ad821724adc.jpg)
 
-Estoy prácticando **Markdown** *style* en este commit desde la terminal
+Estoy prácticando **Markdown** *style* en este commit desde la terminal,
 este texto se está modificando con nano (:
 
->esto es una cita. wow
+>esto es una cita. Wow :o
 
 Esta práctica es para complementar lo visto en Introducción a GitHub
