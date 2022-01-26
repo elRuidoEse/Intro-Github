@@ -9,7 +9,10 @@ Práctica para el programa Skills for women in tech
 ### Agregar imagen
 
 ![hack](IMG/e3a4a18b6141cbfa2b2b1ad821724adc.jpg)
-Estoy prácticando**Markdown***style* en este commit desde la terminal (:
->esto es una blockquote (lo que sea que se eso)
+
+Estoy prácticando **Markdown** *style* en este commit desde la terminal
+este texto se está modificando con nano (:
+
+>esto es una cita. wow
 
 Esta práctica es para complementar lo visto en Introducción a GitHub
